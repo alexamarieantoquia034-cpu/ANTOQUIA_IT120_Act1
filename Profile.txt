@@ -5,3 +5,9 @@ Gender: Female
 Age: 23
 Birthdate: December 10, 2001
 Contact: 09513758600
+Birth Place: Malicato, Las Nieves Agusan Del Norte
+Religion: Roman Catholic
+Father's Name: Alex L. Antoquia Sr.
+Occupation: Farmer
+Mother's Name: Marissa J. Antoquia
+Occupation: Housewife
