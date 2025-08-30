@@ -2,3 +2,6 @@ Elementary School: Malicato Elementary School
 Year Graduated: 2014
 High School: Las Nieves National High School
 Year Graduated: 2020
+College: Caraga State University-Cabadbaran Campus
+Program: Bachelor of Science in Information Technology
+Year Level: 3rd Year Level
