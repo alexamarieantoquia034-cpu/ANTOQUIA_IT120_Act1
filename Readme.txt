@@ -44,9 +44,7 @@ Git Command used:
 #Branch merged into master
 31. git checkout master
 32. git merge ANTOQUIA_B1
-33. git merge ANTOQUIA_B2
-34. git rm -f Test.py
-35. git commit -m "Removed Test.py before merged B3"
-36. git merge ANTOQUIA_B3
-37. git merge ANTOQUIA_B4
-38. git push origin master
+33. git merge ANTOQUIA_B1
+34. git merge ANTOQUIA_B3
+35. git merge ANTOQUIA_B4
+36. git push origin master
